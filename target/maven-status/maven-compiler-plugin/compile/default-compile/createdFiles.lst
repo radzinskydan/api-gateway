@@ -1,0 +1,15 @@
+com\example\apigatewayshop\controller\AuthController.class
+com\example\apigatewayshop\model\User.class
+com\example\apigatewayshop\security\JwtTokenProvider.class
+com\example\apigatewayshop\config\SecurityConfig.class
+com\example\apigatewayshop\payload\AuthResponse$AuthResponseBuilder.class
+com\example\apigatewayshop\service\AuthService.class
+com\example\apigatewayshop\payload\LoginRequest.class
+com\example\apigatewayshop\security\JwtAuthenticationFilter.class
+com\example\apigatewayshop\payload\AuthResponse.class
+com\example\apigatewayshop\utils\SimpleGrantedAuthorityDeserializer.class
+com\example\apigatewayshop\repository\AuthRepository.class
+com\example\apigatewayshop\exceptions\UserAlreadyExistsException.class
+com\example\apigatewayshop\ApiGatewayShopApplication.class
+com\example\apigatewayshop\exceptions\EmailAlreadyExistsException.class
+com\example\apigatewayshop\security\CustomUserDetailsService.class

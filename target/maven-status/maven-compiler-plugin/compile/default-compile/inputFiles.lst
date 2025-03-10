@@ -1,0 +1,14 @@
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\ApiGatewayShopApplication.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\config\SecurityConfig.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\controller\AuthController.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\exceptions\EmailAlreadyExistsException.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\exceptions\UserAlreadyExistsException.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\model\User.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\payload\AuthResponse.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\payload\LoginRequest.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\repository\AuthRepository.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\security\CustomUserDetailsService.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\security\JwtAuthenticationFilter.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\security\JwtTokenProvider.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\service\AuthService.java
+C:\Users\stankevich\IdeaProjects\ProjectRoot\api-gateway\src\main\java\com\example\apigatewayshop\utils\SimpleGrantedAuthorityDeserializer.java
