@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>api-gateway</artifactId>
+	<artifactId>auth-service-shop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api-gateway</name>
-	<description>api-gateway</description>
+	<name>auth-service-shop</name>
+	<description>auth-service-shop</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -115,7 +115,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.example.apigatewayshop.ApiGatewayShopApplication</mainClass>
+					<mainClass>com.example.authservice.ApiGatewayShopApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
