@@ -19,7 +19,7 @@ import java.util.Optional;
 import java.util.function.Function;
 
 @RestController
-@RequestMapping("/api/auth")
+@RequestMapping("/auth")
 public class AuthController {
 
     private final AuthenticationManager authenticationManager;
